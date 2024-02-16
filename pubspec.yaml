@@ -1,0 +1,20 @@
+name: sequential_slide_view
+description: "Flutter package for sequential slide-up animation"
+version: 0.0.1
+repository: git@github.com:Bakbongdo/sequential_slide_view.git
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+ 
